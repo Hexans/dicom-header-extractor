@@ -39,7 +39,7 @@ This tool is developed and provided entirely for free by Yuya Saito to contribut
 
 ### For Academic Research (Papers, Conferences, Preprints):
 ```text
-Saito, Y. (2024). DICOM Header to CSV Extractor [Web application]. Available at: https://saito-dicom-header-extractor.netlify.app/
+Saito, Y. (2026). DICOM Header to CSV Extractor [Web application]. Available at: https://saito-dicom-header-extractor.netlify.app/
 ```
 
 ### For Development & Media (Software, GitHub, Tech Blogs, Portfolios):
