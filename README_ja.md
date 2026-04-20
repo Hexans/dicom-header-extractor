@@ -36,7 +36,7 @@
 
 ### 学術研究（論文・学会のポスター発表・プレプリント）:
 ```text
-Saito, Y. (2024). DICOM Header to CSV Extractor [Web application]. Available at: https://saito-dicom-header-extractor.netlify.app/
+Saito, Y. (2026). DICOM Header to CSV Extractor [Web application]. Available at: https://saito-dicom-header-extractor.netlify.app/
 ```
 
 ### 開発・メディア（自作ソフトウェア・技術ブログ・ポートフォリオ）:
